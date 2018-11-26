@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IMEI Generator</string>
+    <string name="edge_dev_contact">Developed by <b>EdgeDeveloper</b>\n\n Mail: edgedeveloper007@gmail.com\n\n Twitter: @lekeope\n BBM: 557A4A20</string>
+    <string name="generate_imei_hint"><![CDATA[Generate IMEI & Copy]]></string>
+    <string name="generate_imei_btn">Generate IMEI</string>
+</resources>
